@@ -1,5 +1,5 @@
 context:
-  version: "1.18.0"
+  version: "1.19.0"
 
 package:
   name: pdf-inspector
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/firecrawl/pdf-inspector/archive/v${{ version }}.tar.gz
-  sha256: c90af30cfdb8fa0220b5b66bff4d2422847c33634e80bd046a9076bf409200b1
+  sha256: c39940101c86e64f52199102522beea5a6f846adbf5c98a185bc818b5c8cef9f
 
 build:
   number: 0
